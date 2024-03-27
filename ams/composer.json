@@ -1,7 +1,0 @@
-{
-    "require": {
-        "wildbit/postmark-php": "*",
-        "coroowicaksono/chart-js-integration": "*",
-        "koolphp/koolreport": "*"
-    }
-}
